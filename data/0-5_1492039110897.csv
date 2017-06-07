@@ -1,0 +1,7 @@
+"rt","key_press","trial_type","trial_index","time_elapsed","internal_node_id","pid","seed","gun_key","nogun_key","left_obj","right_obj","stimulus","rt_from_start","correct","constrast","obj_type","face_id","obj_id"
+"1662","32","text","0","1665","0.0-0.0","-5","1492039110897","i","e","NO GUN","GUN","","","","","","",""
+"1589","32","text","1","4256","0.0-1.0","-5","1492039110897","i","e","NO GUN","GUN","","","","","","",""
+"","","sequential-priming","2","8282","0.0-2.0","-5","1492039110897","i","e","NO GUN","GUN","[""<div id=\""jspsych-countdown-numbers\"">3</div>"",""<div id=\""jspsych-countdown-numbers\"">2</div>"",""<div id=\""jspsych-countdown-numbers\"">1</div>""]","","","","","",""
+"842","73","sequential-priming","3","11534","0.0-3.0-0.0","-5","1492039110897","i","e","NO GUN","GUN","[""MaskReal.png"",""./LoCon/SHINEd_Lo_WM-040-022-N.png"",""./GrayNonguns/cell_3.png"",""MaskReal.png""]","1242","false","low","nogun","SHINEd_Lo_WM-040-022-N.png","cell_3.png"
+"456","69","sequential-priming","4","14397","0.0-3.0-1.0","-5","1492039110897","i","e","NO GUN","GUN","[""MaskReal.png"",""./LoCon/SHINEd_Lo_WM-038-003-N.png"",""./GrayNonguns/cell_1.png"",""MaskReal.png""]","856","true","low","nogun","SHINEd_Lo_WM-038-003-N.png","cell_1.png"
+"","","sequential-priming","5","17311","0.0-3.0-2.0","-5","1492039110897","i","e","NO GUN","GUN","[""MaskReal.png"",""./LoCon/SHINEd_Lo_WM-205-007-N.png"",""./GrayNonguns/wallet_7.png"",""MaskReal.png""]","","","low","nogun","SHINEd_Lo_WM-205-007-N.png","wallet_7.png"

@@ -1,0 +1,9 @@
+<p>
+In this task, you will see two images on each trial. The first image will be a face, and the second image will be an object. The face is not important, but only signals that the object is about to appear. When the object appears, it is your job to identify the object as a gun or as a non-gun object. If the object is a gun, press the "i" key. If the object is not a gun, press the "e" key.
+</p>
+<p>
+Please identify guns by pressing "i" and non-guns by pressing "e" as quickly and accurately as you can!
+</p>
+<p>
+If you are ready, place your fingers on the "e" and "i" keys, and press the space bar to begin. If you don't understand these instructions, ask the experimenter now!
+</p>
